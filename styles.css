@@ -9,6 +9,7 @@ body{
 .book-library{
 	background-color: #ffffff;
 	margin-top: 15px;
+	box-shadow: large;
 }
 p{
 	font-size: small;
